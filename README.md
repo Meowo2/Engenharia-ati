@@ -9,18 +9,18 @@
 
 <h3>Telas do Figma</h3>
 <h4>Tela de login</h4>
-![Captura de Tela (6)](https://github.com/Meowo2/Engenharia-ati/assets/112907764/06856759-72f2-4419-8c0d-b180a07d5e4d)
+<img src="https://github.com/Meowo2/Engenharia-ati/assets/112907764/06856759-72f2-4419-8c0d-b180a07d5e4d">
 
 <h4>Tela de Cadastro</h4>
-![Captura de Tela (7)](https://github.com/Meowo2/Engenharia-ati/assets/112907764/0ad74a5d-7bcc-4cc7-aa74-dc0d0c6cb994)
+<img src="https://github.com/Meowo2/Engenharia-ati/assets/112907764/0ad74a5d-7bcc-4cc7-aa74-dc0d0c6cb994">
 
 <hr>
 <h3>Implementação</h3>
 <h4>Tela de login</h4>
-![Captura de Tela (9)](https://github.com/Meowo2/Engenharia-ati/assets/112907764/eb862731-36cf-4b6c-9295-f84169848b3c)
+<img src="https://github.com/Meowo2/Engenharia-ati/assets/112907764/eb862731-36cf-4b6c-9295-f84169848b3c">
 
 <h4>Tela de Cadastro</h4>
-![Captura de Tela (10)](https://github.com/Meowo2/Engenharia-ati/assets/112907764/1af66a05-93a2-4ce7-89e3-256681bfae90)
+<img src="https://github.com/Meowo2/Engenharia-ati/assets/112907764/1af66a05-93a2-4ce7-89e3-256681bfae90">
 
 <h1>Como rodar o projeto</h1>
 
